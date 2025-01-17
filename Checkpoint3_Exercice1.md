@@ -73,7 +73,11 @@ Q.1.3.1 Créer une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clien
 
 ![](assets/gpo_1.png)
 
+![](assets/gpo_bonus.png)
+
 ![](assets/gpo_2.png)
+
+![](assets/gpo_bonus_2.png)
 
 ![](assets/gpo_3.png)
 
