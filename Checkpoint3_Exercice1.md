@@ -6,8 +6,13 @@
 *L'utilisateur Kelly Rhameur a quitté l'entreprise.Elle est remplacée par Lionel Lemarchand*
 
 Q.1.1.1 Créer l'utilisateur Lionel Lemarchand avec les même attribut de société que Kelly Rhameur.
-![image]()
+![](assets/kelly_1.png) ![](assets/kelly_2.png) 
 
+![](assets/kelly_3.png)![](assets/kelly_4.png)
+
+![](assets/lionel_1.png) ![](assets/lionel_3.png)
+
+![](assets/lionel_2.png) ![](assets/lionel_4.png)
 
 Q.1.1.2 Créer une OU DeactivatedUsers et déplace le compte désactivé de Kelly Rhameur dedans.
 
