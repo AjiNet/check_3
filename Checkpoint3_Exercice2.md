@@ -109,9 +109,21 @@ Q.2.4.1 Expliquer succinctement les rôles respectifs des 3 composants bareos in
 
 Q.2.5.1 Quelles sont actuellement les règles appliquées sur Netfilter ?
 
+Les règles appliquées sont les suivantes pour des flux entrants : 
+- accepte les paquets de connections connues
+- drop les paquets entrants des autres connections
+- Accepte les connections sur son addresse de loopback
+- Accepte les connections tcp sur le port 22
+- Accepte les paquets ICMP (ping)
+- Accepte les ping en ipv6
+
 Q.2.5.2 Quels types de communications sont autorisées ?
 
+Les communications autorisées sont les pings ipv4 et ipv6, les communications via protocole TCP sur le port 22, et les communications venant de l'interface loopback. 
+
 Q.2.5.3 Quels types sont interdit ?
+
+Les communications de l'extérieur sont toutes interdites  sauf celles citées à la Q.2.5.2,  
 
 Q.2.5.4 Sur nftables, ajouter les règles nécessaires pour autoriser bareos à communiquer avec les clients bareos potentiellement présents sur l'ensemble des machines du réseau local sur lequel se trouve le serveur.
 
