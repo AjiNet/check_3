@@ -64,3 +64,21 @@ Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes d
 ## Partie 3 : Lecteurs réseaux
 
 Q.1.3.1 Créer une GPO Drive-Mount qui monte les lecteurs E: et F: sur les clients.
+
+![](assets/disk_1.png)
+
+![](assets/disk_2.png)
+
+![](assets/disk_path.png)
+
+![](assets/gpo_1.png)
+
+![](assets/gpo_2.png)
+
+![](assets/gpo_3.png)
+
+![](assets/gpo_4.png)
+
+![](assets/gpo_5.png)
+
+
