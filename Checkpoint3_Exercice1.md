@@ -43,12 +43,23 @@ Q.1.1.4 Créer le dossier Individuel du nouvel utilisateur et archive celui de K
 ## Partie 2 : Restriction utilisateurs
 
 Q.1.2.1 Faire en sorte que l'utilisateur Gabriel Ghul ne puisse se connecter que du lundi au vendredi, de 7h à 17h.
+![](assets/gab_1.png)
 
+![](assets/gab_2.png)
 
 Q.1.2.2 De même, bloquer sa connexion au seul ordinateur CLIENT01.
 
+![](assets/gab_3.png)
+
+![](assets/gab_4.png)
 
 Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes des utilisateurs de l'OU LabUsers.
+
+![](assets/fine_1.png)
+
+![](assets/fine_2.png)
+
+![](assets/fine_3.png)
 
 ## Partie 3 : Lecteurs réseaux
 
